@@ -1,2 +1,0 @@
-Columns in the table
-stroke_index, character, num_stroke, pinyin, pinyin_tone, pinyin_tone_stroke
